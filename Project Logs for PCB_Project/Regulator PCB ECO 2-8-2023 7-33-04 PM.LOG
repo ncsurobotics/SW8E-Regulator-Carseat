@@ -1,0 +1,24 @@
+Change Component Comment : Designator=R1 Old Comment=CR1206-FX-1051ELF New Comment=1050
+Change Component Comment : Designator=R3 Old Comment=ERJ-8GEYJ201V New Comment=200
+Change Component Comment : Designator=R2 Old Comment=MCA12060D8000BP500 New Comment=800
+Added Component: Designator=F1(FP-0685T-IPC_B)
+Add component (AddParameter): Name = "Approvals"; Value = "CE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Cold Resistance"; Value = "30mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fuse Type"; Value = "Board Mount (Cartridge Style Excluded)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "63V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "63V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Bat In Pin=F1-1
+Added Pin To Net: NetName=Bat Fuse Pin=F1-2
+Change Net Name : Old Net Name=Net200 ohm_1 New Net Name=NetD3_2
+Change Net Name : Old Net Name=Net800 ohm_1 New Net Name=NetD2_2
+Change Net Name : Old Net Name=Net1050 ohm_1 New Net Name=NetD1_2
+Added Member To Class: ClassName=Regulator Member=Component F1 4A
