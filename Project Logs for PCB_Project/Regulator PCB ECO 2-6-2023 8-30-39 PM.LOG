@@ -1,9 +1,0 @@
-Change Component Comment : Designator=3A Old Comment=0466003.NR New Comment=3A
-Change Component Comment : Designator=3A Old Comment=0466003.NR New Comment=3A
-Change Component Comment : Designator=5A Old Comment=0469005.WR New Comment=5A
-Change Component Designator: OldDesignator=3A NewDesignator=F1
-Change Component Designator: OldDesignator=3A NewDesignator=F2
-Change Component Designator: OldDesignator=5A NewDesignator=F3
-Change Net Name : Old Net Name=Net3A_2 New Net Name=NetD2_1
-Change Net Name : Old Net Name=Net5A_1 New Net Name=5V Fuse
-Added Member To Class: ClassName=Regulator Member=Component F1 3A

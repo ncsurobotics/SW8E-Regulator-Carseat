@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "Regulator-altium-import")(type "KiCad")(uri "${KIPRJMOD}/Regulator-altium-import.kicad_sym")(options "")(descr ""))
+)
